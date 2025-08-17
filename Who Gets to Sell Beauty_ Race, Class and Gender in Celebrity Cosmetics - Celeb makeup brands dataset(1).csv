@@ -1,0 +1,38 @@
+Celebrity,Brand,Category,Country of Birth,Gender,Race,Industry ,Birth Year,Age at Launch,Year Launched,Shade Count,Shade Inclusivity,Net Worth Year of Launch,Peak Valuation,Current Valuation,Avg Pricing (other products),Avg Pricing (Foundation),Price level,Public buzz
+Hailey Bieber,Rhode,Skincare,U.S.A,Female,White,Model,1996,26,2022,N/A,N/A,"$10,000,000.00","$1,000,000,000.00","$1,000,000,000.00",$30.00,$0.00,Medium,High
+Kylie Jenner,Kylie Cosmetics,Skincare/Makeup,U.S.A,Female,White,Socialite/Reality,1997,18,2015,40,High,"$250,000.00","$1,200,000,000.00","$700,000,000.00",$25.00,$36.00,Medium,High
+Rihanna,Fenty,Skincare/Makeup,Trinidad & Tobago,Female,Black/African American,Musician,1988,29,2017,50,High,"$72,000,000.00","$3,000,000,000.00","$2,800,000,000.00",$40.00,$35.00,High,High
+Serena Williams,WYN Beauty,Skincare/Makeup,U.S.A,Female,Black/African American,Athlete,1981,43,2024,N/A,N/A,$0.00,"$70,000,000.00","$70,000,000.00",$20.00,$20.00,Low,Low
+Jennifer Aniston,LolaVie,Haircare,U.S.A,Female,White,Actor,1969,52,2021,N/A,N/A,"$15,000,000.00","$50,000,000.00","$50,000,000.00",$30.00,$0.00,Medium,Medium
+Beyonce,Cécred,Haircare,U.S.A,Female,Black/African American,Musician,1981,43,2024,N/A,N/A,"$1,000,000.00","$17,000,000.00","$17,000,000.00",$40.00,$0.00,High,High
+Jonathan Van Ness,JVN Hair,Haircare,U.S.A,Male,White,Socialite/Reality,1987,34,2021,N/A,N/A,"$1,700,000.00","$500,000,000.00","$1,250,000.00",$25.00,$0.00,Medium,Medium
+Scarlett Johansson,The Outset,Skincare,U.S.A,Female,White,Actor,1984,38,2022,N/A,N/A,"$10,000,000.00","$40,000,000.00","$40,000,000.00",$40.00,$0.00,High,Medium
+Idris  Elba,S'Able Labs,Skincare/Makeup,United Kingdom,Male,Black British,Actor,1972,48,2020,6,Low,"$500,000.00","$3,000,000.00","$3,000,000.00",$25.00,$0.00,Medium,Low
+Sabrina Elba,S'Able Labs,Skincare/Makeup,Canada,Female,Black/African American,Socialite/Reality,1989,31,2020,6,Low,"$500,000.00","$3,000,000.00","$3,000,000.00",$25.00,$0.00,Medium,Low
+Ariana Grande,r.e.m Beauty,Skincare/Makeup,U.S.A,Female,White,Musician,1993,28,2021,60,High,"$15,000,000.00","$15,000,000.00","$15,000,000.00",$25.00,$26.00,Medium,Medium
+Alicia Keys,Keys Soulcare,Skincare/Makeup,U.S.A,Female,Mixed,Musician,1981,39,2020,40,High,"$10,000,000.00","$10,000,000.00","$10,000,000.00",$35.00,$0.00,Medium,Medium
+Selena Gomez,Rare Beauty,Skincare/Makeup,U.S.A,Female,LatinX,Actor,1992,28,2020,48,High,"$29,200,000.00","$2,700,000,000.00","$2,700,000,000.00",$30.00,$30.00,Medium,High
+Jessica Alba,Honest Company,Skincare/Makeup,U.S.A,Female,Mixed,Actor,1981,34,2015,N/A,N/A,"$1,000,000,000.00","$2,700,000,000.00","$508,000,000.00",$25.00,$0.00,Medium,High
+Drew Barrymore,Flower Beauty,Skincare/Makeup,U.S.A,Female,White,Actor,1975,38,2013,18,Low,"$10,000,000.00","$50,000,000.00","$50,000,000.00",$20.00,$17.00,Low,Medium
+Gabrielle Union,Flawless,Haircare,U.S.A,Female,Black/African American,Actor,1972,45,2017,N/A,N/A,"$2,000,000.00","$10,000,000.00","$10,000,000.00",$10.00,$0.00,Low,Low
+Lady Gaga,Haus Labs,Skincare/Makeup,U.S.A,Female,White,Musician,1986,33,2019,51,High,"$10,400,000.00","$40,400,000.00","$40,400,000.00",$40.00,$40.00,High,High
+Halsey,About-Face,Skincare/Makeup,U.S.A,Female,White,Musician,1994,27,2021,44,High,"$1,000,000.00","$3,000,000.00","$3,000,000.00",$25.00,$25.00,Medium,Low
+Millie Bobby Brown,Florence by Mills,Skincare/Makeup,United Kingdom,Female,White,Actor,2004,15,2019,N/A,N/A,"$5,000,000.00","$15,000,000.00","$15,000,000.00",$20.00,$0.00,Low,High
+Pharrell Williams,Humanrace,Skincare,U.S.A,Male,Black/African American,Musician,1973,47,2020,N/A,N/A,"$10,000,000.00","$40,000,000.00","$40,000,000.00",$40.00,$0.00,High,High
+Tracee Ellis Ross,Pattern Beauty,Haircare,U.S.A,Female,Black/African American,Actor,1972,47,2019,N/A,N/A,"$5,000,000.00","$30,000,000.00","$30,000,000.00",$25.00,$0.00,Medium,High
+Victoria Beckham,Victoria Beckham Beauty,Skincare,United Kingdom,Female,White,Musician,1974,46,2020,N/A,N/A,"$15,000,000.00","$90,000,000.00","$45,000,000.00",$60.00,$0.00,High,Medium
+Taraji P. Henson,TPH by Taraji,Haircare,U.S.A,Female,Black/African American,Actor,1970,50,2020,N/A,N/A,"$800,000.00","$3,000,000.00","$3,000,000.00",$30.00,$0.00,Medium,Medium
+Cindy Crawford,Meaningful Beauty,Skincare,U.S.A,Female,White,Model,1966,39,2005,N/A,N/A,"$3,000,000.00","$10,000,000.00","$10,000,000.00",$65.00,$0.00,High,Low
+Miranda Kerr,Kora Cosmetics,Skincare,Australia,Female,White,Model,1983,34,2017,N/A,N/A,"$350,000.00","$3,000,000.00","$1,800,000.00",$50.00,$0.00,High,Low
+Winnie Harlow,Cay Skin,Skincare,Canada,Female,Black/African American,Model,1994,28,2022,N/A,N/A,"$4,100,000.00","$6,500,000.00","$6,500,000.00",$20.00,$0.00,Medium,High
+Brad Pitt,Beau Domaine,Skincare,U.S.A,Male,White,Actor,1963,59,2022,N/A,N/A,"$100,000,000.00","$500,000,000.00","$500,000,000.00",$200.00,$0.00,High,Low
+John Legend,Loved01,Skincare,U.S.A,Male,Black/African American,Musician,1978,44,2022,N/A,N/A,"$2,000,000.00","$5,000,000.00","$5,000,000.00",$15.00,$0.00,Low,Medium
+Rosie Huntington‑Whiteley (stepped down),Rose Inc.,Skincare/Makeup,United Kingdom,Female,White,Model,1987,31,2018,28,Medium,"$3,000,000.00","$10,000,000.00","$2,500,000.00",$40.00,$55.00,High,Low
+Tia Mowry,4U by Tia,Haircare,U.S.A,Female,Black/African American,Actor,1978,45,2023,N/A,N/A,"$500,000.00","$1,000,000.00","$600,000.00",$10.00,$0.00,Low,Low
+Priyanka Chopra,Anomaly Haircare,Haircare,India,Female,South Asian,Actor,1982,39,2021,N/A,N/A,"$10,000,000.00","$527,000,000.00","$527,000,000.00",$17.00,$0.00,Low,Low
+Jennifer Lopez,JLo Beauty,Skincare,U.S.A,Female,LatinX,Musician,1969,52,2021,N/A,N/A,"$1,000,000.00","$2,000,000.00","$400,000.00",$45.00,$0.00,High,Low
+Harry Styles,Pleasing,Lifestyle,United Kingdom,Male,White,Musician,1994,27,2021,N/A,N/A,"$250,000.00","$5,000,000.00","$5,000,000.00",$80.00,$0.00,High,Medium
+Jared Leto,Twentynine Palms,Skincare/Haircare,U.S.A,Male,White,Actor,1971,51,2022,N/A,N/A,"$300,000.00","$500,000.00","$500,000.00",$80.00,$0.00,High,Low
+Travis Barker,Barker Wellness,Wellness,U.S.A,Male,White,Musician,1975,46,2021,N/A,N/A,"$5,000,000.00","$5,000,000.00","$5,000,000.00",$28.00,$0.00,Medium,Low
+Machine Gun Kelly,UN/DN LAQR,Nail polish,U.S.A,Male,White,Musician,1990,31,2021,N/A,N/A,"$1,000,000.00","$2,000,000.00","$2,000,000.00",$13.00,$0.00,Low,Medium
+Karamo Brown,Mantl,Skincare,U.S.A,Male,Black/African American,Socialite/Reality,1980,41,2021,N/A,N/A,"$1,000,000.00","$28,000,000.00","$28,000,000.00",$20.00,$0.00,Medium,Low
